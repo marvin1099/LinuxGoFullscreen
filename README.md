@@ -31,7 +31,7 @@ If no media is playing it will click once more to make it start playing.
 
 # Important
 The script might take away your controls.  
-That is why you shold ran the script in the terminal so you can easily close it.  
+That is why you should ran the script in the terminal so you can easily close it.  
 If you cant get to the terminal or accidentally ran the script in the backround,  
 than you can also delete the emergency file "gofullscreen.txt",  
 the script will create that file in the script directory at script startup and   
